@@ -1,6 +1,10 @@
 # take-out
 
-> A Vue.js project
+> A Vue.js project  <br/> - [demo](https://jarineee.github.io/IFE_Task/Others/E-takeout/dist/)<br/>描述：Vuejs框架(vue-cli搭建，含vuex, vue-router)
+- 移动设备上观看效果更佳，扫一扫： </br>
+<div align="center">
+<img src="./others-Etakeout.png" height="120" width="120">
+ </div> 
 
 ## Build Setup
 
